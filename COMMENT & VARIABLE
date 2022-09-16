@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+// this comment example
+
+/*this
+is
+also
+example*/
+
+int main()
+{
+    int sum = 6;
+    std::cout << sum;
+    return 0;
+}
